@@ -1,0 +1,25 @@
+1]Largest continent?
+a)Australia
+b)Asia
+c)Europe
+d)Antartica
+2]Capital of India?
+a)Kochi
+b)Chennai
+c)Kolkata
+d)Delhi
+3]National animal of India?
+a)Tiger
+b)Lion
+c)Elephant
+d)Gorilla
+4]Economic capital of India?
+a)Bangalore
+b)Mumbai
+c)Vizag
+d)Delhi
+5]Largest country in the world?
+a)America
+b)Canada
+c)India
+d)Russia
